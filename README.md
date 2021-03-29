@@ -8,12 +8,13 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Plotly and JS D3 were used to create charts, graphs and landing page for analysis of belly button. The data are in json format. The project is hosted through github pages at: https://btroolin.github.io/plotly-challenge/
 
-![bar Chart](Screenshot_1.png)
 Image 1.
+![bar Chart](Screenshot_1.png)
 
-![Bubble Chart](Images/bubble_chart.png)
 Image 2.
+![Bubble Chart](Images/bubble_chart.png)
 
-![hw](Screenshot_3.png)
 Image 3.
+![hw](Screenshot_3.png)
+
 #
